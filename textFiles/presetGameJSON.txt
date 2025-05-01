@@ -1,0 +1,782 @@
+[
+{
+  "leftAnimal": {
+    "name": "Gorilla",
+    "height": "6’ 0” tall",
+    "weight": "350 lbs",
+    "strengths": [
+      "Bite Force (1300 psi)",
+      "Reach (Arm span of 8.5 ft)",
+      "Strength (Can lift over 1800 lbs!)"
+    ],
+    "weaknesses": "Vulnerability to Illness"
+  },
+  "rightAnimal": {
+    "name": "Anaconda",
+    "height": "20’ 0” long",
+    "weight": "500 lbs",
+    "strengths": [
+      "Constriction (300 psi, like an elephant stepping on someone)",
+      "Semi-Aquatic",
+      "Cunning Hunting Strategy"
+    ],
+    "weaknesses": "Slow (5 mph on land 10 mph in water)"
+  },
+  "justification": "Gorillas have a highly developed neocortex for rapid threat response, strong skeletal muscle density, and upright mobility. Anacondas depend on slow, energy-intensive land movement and require stealth to constrict, putting the gorilla at a clear advantage in a land-based encounter.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Hippo",
+    "height": "5’ 6” ft tall",
+    "weight": "9,900 lbs",
+    "strengths": [
+      "Speed (19 mph)",
+      "Bite (1800 psi) 20 in canines",
+      "Aggression"
+    ],
+    "weaknesses": "Thin Skin"
+  },
+  "rightAnimal": {
+    "name": "Crocodile",
+    "height": "23’ 0” long",
+    "weight": "2200 lbs",
+    "strengths": [
+      "Bite (3700 psi)",
+      "Agility (20 mph in water, 10 on land)",
+      "Extremely tough skin"
+    ],
+    "weaknesses": "Low Stamina and Turn Radius"
+  },
+  "justification": "The hippopotamus possesses dense cortical bone, robust musculature, and highly territorial behavior, making it capable of withstanding and delivering immense force. Although the crocodile has superior bite force due to specialized jaw musculature and conical teeth, its low aerobic capacity and limited lateral mobility reduce its effectiveness in sustained or dynamic terrestrial encounters.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Lion",
+    "height": "8 feet long",
+    "weight": "500 lbs",
+    "strengths": [
+      "Bite (650 psi)",
+      "Claws (1.5 inch nail exerting 500 pounds of force per paw)",
+      "Speed (50 mph in just a few strides)"
+    ],
+    "weaknesses": "Low Stamina"
+  },
+  "rightAnimal": {
+    "name": "Tiger",
+    "height": "10 ft long",
+    "weight": "660 lbs",
+    "strengths": [
+      "Bite (1050 psi)",
+      "Strength (Can move up to 1500 lbs)",
+      "Powerful Paws"
+    ],
+    "weaknesses": "Low Endurance"
+  },
+  "justification": "Tigers possess greater muscle mass, higher bite force, and stronger forelimbs, supported by denser bone structure and solitary hunting adaptations that favor one-on-one combat. Lions, while fast and powerful in short bursts, rely on cooperative tactics and have lower individual strength, making them less suited to solo fights against the physically superior tiger.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Kangaroo",
+    "height": "6’ 6” tall",
+    "weight": "200 lbs",
+    "strengths": [
+      "Bone crushing kick",
+      "Jump: 10ft high, 25 ft long",
+      "Great stamina"
+    ],
+    "weaknesses": "Poor lateral movement"
+  },
+  "rightAnimal": {
+    "name": "Ostrich",
+    "height": "9 ft",
+    "weight": "300 lbs",
+    "strengths": [
+      "Speed (43 mph)",
+      "Kick (2000 lbs of force)",
+      "Sharp Claws up to 4 inches long"
+    ],
+    "weaknesses": "Mobility (Can only kick forward)"
+  },
+  "justification": "The kangaroo’s elastic tendons and strong hindlimb muscles enable powerful, controlled jumps and sustained movement, giving it superior stamina and vertical evasion ability. While the ostrich delivers an extremely forceful forward kick, its limited directional mobility and lack of agility make it vulnerable to angled attacks from a more maneuverable opponent like the kangaroo.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Kodiak Grizzly",
+    "height": "10 ft tall",
+    "weight": "1500 lbs",
+    "strengths": [
+      "Bite (1200 psi)",
+      "Strength (1500 lbs)",
+      "Claws (4 inches in length)"
+    ],
+    "weaknesses": "Low agility"
+  },
+  "rightAnimal": {
+    "name": "Walrus",
+    "height": "12 ft long",
+    "weight": "2200 lbs",
+    "strengths": [
+      "Tusks (3 feet long)",
+      "Thick Skin (2 inches)",
+      "Agile in Water"
+    ],
+    "weaknesses": "Slow on land"
+  },
+  "justification": "The Kodiak grizzly’s terrestrial anatomy, including powerful limb musculature and sharp claws, gives it a dominant advantage in land combat. Although the walrus has dense blubber and tough skin for insulation and defense, its flipper-based locomotion and low aerobic efficiency on land limit its ability to respond effectively outside aquatic environments.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Scorpion",
+    "height": "0’10”",
+    "weight": "100g",
+    "strengths": [
+      "Venomous",
+      "Huge Strength to weight ratio",
+      "Large and powerful pincers"
+    ],
+    "weaknesses": "Poor vision"
+  },
+  "rightAnimal": {
+    "name": "Crab",
+    "height": "3’0”",
+    "weight": "25 lbs",
+    "strengths": [
+      "Hard Exoskeleton",
+      "Powerful Pincers",
+      "Huge Strength to weight ratio"
+    ],
+    "weaknesses": "Limited mobility"
+  },
+  "justification": "The crab’s thick, mineralized exoskeleton provides robust protection against stings, while its significantly larger mass and powerful claws enable it to overpower and crush smaller threats. The scorpion’s venom is effective on small prey, but it is unlikely to penetrate the crab’s armor or deliver a dose sufficient to incapacitate a much larger, heavily armored opponent.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Bald Eagle",
+    "height": "8’0”",
+    "weight": "10 lbs",
+    "strengths": [
+      "Talons (1000 psi)",
+      "Soaring Height (10,000 ft)",
+      "Powerful and cunning hunters"
+    ],
+    "weaknesses": "Unadaptable to changing environments"
+  },
+  "rightAnimal": {
+    "name": "Osprey",
+    "height": "6’0”",
+    "weight": "3 lbs",
+    "strengths": [
+      "Dive into water on prey at 100 ft",
+      "Strength (tow 4 lbs in flight)",
+      "Agility"
+    ],
+    "weaknesses": "Specialized in eating fish"
+  },
+  "justification": "The bald eagle’s greater body mass, high grip strength due to enlarged flexor muscles in the legs, and generalist predatory behavior make it a dominant aerial competitor. The osprey is morphologically adapted for fish capture through reversible outer toes and specialized talons, making it less equipped to compete with the eagle’s broader ecological and anatomical advantages.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Great White Shark",
+    "height": "20’0”",
+    "weight": "5000 lbs",
+    "strengths": [
+      "Powerful Bite (3600 psi)",
+      "Apex Hunters and swimmers",
+      "Rows on rows of serrated teeth"
+    ],
+    "weaknesses": "Very slow healing rate"
+  },
+  "rightAnimal": {
+    "name": "Blue Whale",
+    "height": "100’0”",
+    "weight": "200 tons!",
+    "strengths": [
+      "Incredibly powerful swimmers",
+      "Speeds up to 20mph",
+      "Vocalization (188 dbs)"
+    ],
+    "weaknesses": "Peaceful"
+  },
+  "justification": "The blue whale’s immense size and mass are supported by specialized collagen-rich connective tissues and thick blubber layers, which effectively absorb and distribute impact forces. In contrast, the great white shark’s serrated teeth and high bite force are adapted for medium-sized prey, and its cartilaginous skeleton lacks the structural leverage needed to inflict meaningful damage on the whale.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Bluefin tuna",
+    "height": "10’0”",
+    "weight": "1500 lbs",
+    "strengths": [
+      "Speed (75 mph)",
+      "Surprise Attacks",
+      "High Swimming Endurance"
+    ],
+    "weaknesses": "Large Size makes for big target"
+  },
+  "rightAnimal": {
+    "name": "Marlin",
+    "height": "16’0”",
+    "weight": "1500 lbs",
+    "strengths": [
+      "Speed (50 mph)",
+      "Sword on its face!",
+      "Agile Hunters"
+    ],
+    "weaknesses": "Thin Skin"
+  },
+  "justification": "The marlin’s elongated rostrum is supported by reinforced cranial cartilage, allowing for precise, high-speed slashing attacks that can injure or disorient opponents. The bluefin tuna excels in speed and endurance due to its endothermic muscle system but lacks natural armor or offensive adaptations, making it susceptible to the marlin’s quick strikes.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Monk fish",
+    "height": "3’3”",
+    "weight": "127 lbs",
+    "strengths": [
+      "Strong jaws full of sharp teeth",
+      "Cunning ambusher",
+      "Large jaw and stomach allows them to take down larger animals"
+    ],
+    "weaknesses": "Slow swimmers"
+  },
+  "rightAnimal": {
+    "name": "Barracuda",
+    "height": "6’0”",
+    "weight": "100 lbs",
+    "strengths": [
+      "Cunning Hunter",
+      "Speed (36 mph)",
+      "Long sharp teeth"
+    ],
+    "weaknesses": "Thin Skin"
+  },
+  "justification": "The barracuda’s streamlined body and fast-twitch muscle fibers enable rapid acceleration and agile movement, ideal for pursuits and evasive maneuvers. In contrast, the monkfish relies on benthic ambush predation and has limited locomotor capacity. Its slow swimming and bottom-dwelling adaptations leave it highly vulnerable to the barracuda’s sustained speed and precision strikes.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Orca",
+    "height": "27’0”",
+    "weight": "8,000 lbs",
+    "strengths": [
+      "Bite Force (19,000 psi)",
+      "Smart (One of three animals that kill for fun)",
+      "Cunning and agile hunters"
+    ],
+    "weaknesses": "Vulnerable to disease"
+  },
+  "rightAnimal": {
+    "name": "Sperm Whale",
+    "height": "67’0”",
+    "weight": "90,000 lbs",
+    "strengths": [
+      "Dive to depths of 10,000 ft",
+      "Largest toothed whale",
+      "Cunning hunters"
+    ],
+    "weaknesses": "Low agility"
+  },
+  "justification": "The sperm whale’s massive size and 14 inch blubber provide protection against physical attacks, while its ability to dive to extreme depths enables it to fight in high-pressure environments. Although orcas possess high intelligence, social hunting tactics, and high bite force, their smaller size and limited diving range make them disadvantaged in prolonged encounters with a sperm whale.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Giant Squid",
+    "height": "43’0”",
+    "weight": "2000 lbs",
+    "strengths": [
+      "Powerful tentacles",
+      "Sharp suckers",
+      "Giant eye to see in the deep"
+    ],
+    "weaknesses": "Soft body and skin"
+  },
+  "rightAnimal": {
+    "name": "Polar Bear",
+    "height": "10’0”",
+    "weight": "1500 lbs",
+    "strengths": [
+      "Smart hunters",
+      "Powerful jaw and paw",
+      "Excellent hunters"
+    ],
+    "weaknesses": "Requires a lot of energy"
+  },
+  "justification": "The giant squid’s long tentacles are moved through hydrostatic musculature and sharp chitin-lined suckers allow it to immobilize prey, including larger predators. In aquatic combat, the polar bear’s limited underwater endurance and reliance on surface breathing put it at a severe disadvantage against the squid’s reach, grip strength, and ability to fight.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Rhino",
+    "height": "12’0”",
+    "weight": "5000 lbs",
+    "strengths": [
+      "5 foot long horn",
+      "Speed (30 mph)",
+      "Thick skin (2 inches)"
+    ],
+    "weaknesses": "Poor eyesight"
+  },
+  "rightAnimal": {
+    "name": "Elephant",
+    "height": "13’0”",
+    "weight": "13000 lbs",
+    "strengths": [
+      "Trunks can lift 600 lbs",
+      "Large tusks 11’0”",
+      "Speed (25 mph)"
+    ],
+    "weaknesses": "Vulnerable to disease"
+  },
+  "justification": "The elephant has tusks composed of dense dentin capable of withstanding high-impact stress and a prehensile trunk containing over 40,000 muscles, enabling precise manipulation and defensive versatility. In contrast, the rhino relies on forward momentum and keratin-based horn strikes, but its limited vision and lower flexibility reduce its effectiveness against the elephant’s control in direct confrontation.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "King Cobra",
+    "height": "18’0”",
+    "weight": "20 lbs",
+    "strengths": [
+      "Highly potent venom",
+      "Highly intelligent",
+      "Remarkable strike speed"
+    ],
+    "weaknesses": "Vulnerable to mongoose attacks"
+  },
+  "rightAnimal": {
+    "name": "Black Mamba",
+    "height": "14’0”",
+    "weight": "3.5 lbs",
+    "strengths": [
+      "Speed (12 mph)",
+      "Deadly venom (could kill multiple grown humans)",
+      "Precision striking"
+    ],
+    "weaknesses": "Can be shy"
+  },
+  "justification": "The king cobra’s larger size enables greater venom yield and physical dominance, while its advanced midbrain development supports complex defensive behavior and threat assessment. Though the black mamba is faster and delivers potent neurotoxins, its smaller mass and lower strike range limit its ability to outlast or overpower the cobra in an encounter.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Black Widow",
+    "height": "0’2”",
+    "weight": "0.035 ounces",
+    "strengths": [
+      "Large size to weight ratio",
+      "Powerful web spinners",
+      "Toxic venom"
+    ],
+    "weaknesses": "Quite pacifistic"
+  },
+  "rightAnimal": {
+    "name": "Brown Recluse",
+    "height": "0’ 1”",
+    "weight": ".01 lb",
+    "strengths": [
+      "Venom",
+      "Agile",
+      "Speed"
+    ],
+    "weaknesses": "Don't spin webs to catch prey"
+  },
+  "justification": "The brown recluse possesses necrotic venom that can break down cell membranes and cause localized tissue destruction. Its long legs and camouflaged body enable rapid, agile movement and efficient ambush attacks. However, its smaller venom yield and lack of silk webs reduce its effectiveness against the black widow’s structurally reinforced web and fast-acting neurotoxins.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Wolverine",
+    "height": "1’ 5”",
+    "weight": "30 lbs",
+    "strengths": [
+      "Incredible strength",
+      "Thick skin",
+      "Fearless and aggressive"
+    ],
+    "weaknesses": "Solitary"
+  },
+  "rightAnimal": {
+    "name": "Tasmanian Devil",
+    "height": "1’ 0”",
+    "weight": "18 lbs",
+    "strengths": [
+      "Strong jaw",
+      "Loud",
+      "Keen senses"
+    ],
+    "weaknesses": "Common deformities"
+  },
+  "justification": "The wolverine’s large jaw muscles and reinforced dermal armor caused by their thick hide and subcutaneous fat allow it to withstand and deliver high-force attacks, even against larger predators. In contrast, while the Tasmanian devil has one of the strongest bite forces relative to body size and acute sensory perception, its lighter frame reduces its combat durability against the wolverine.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Honey Badger",
+    "height": "0’ 11”",
+    "weight": "35 lb",
+    "strengths": [
+      "Tough skin",
+      "Fearless and aggressive",
+      "High resistance to venom"
+    ],
+    "weaknesses": "Poor eyesight"
+  },
+  "rightAnimal": {
+    "name": "Hyena",
+    "height": "3’ 0”",
+    "weight": "190 lbs",
+    "strengths": [
+      "Powerful bite",
+      "Endurance",
+      "Large"
+    ],
+    "weaknesses": "Vulnerable when alone"
+  },
+  "justification": "The honey badger’s dermis can be up to 6 mm thick and is rich in collagen, providing resistance to bites and blunt trauma, while its immune system exhibits high levels of anti-venom antibodies and rapid cellular repair. Though the hyena’s bite force exceeds 1,100 psi and it has superior aerobic capacity, in a solitary setting it is biomechanically less capable of countering the badger’s high pain tolerance, flexibility, and neurochemical aggression response.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Mountain Lion",
+    "height": "2’ 0”",
+    "weight": "200 lb",
+    "strengths": [
+      "Stealth",
+      "Excellent climber",
+      "Strong bite"
+    ],
+    "weaknesses": "Low endurance"
+  },
+  "rightAnimal": {
+    "name": "Wolf",
+    "height": "2’ 6”",
+    "weight": "135 lbs",
+    "strengths": [
+      "High stamina",
+      "Sharp senses",
+      "Powerful jaw"
+    ],
+    "weaknesses": "Vulnerable alone - pack reliant"
+  },
+  "justification": "The mountain lion has a high proportion of fast-twitch muscle fibers, enabling explosive ambush attacks, powerful forelimb strikes, and precise bites. In contrast, the gray wolf is built for endurance with slow-twitch fibers and depends on pack strategies, making it less effective alone. Despite similar bite force, the lion’s biomechanics give it the advantage in solitary combat.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Rattlesnake",
+    "height": "3’ 6”",
+    "weight": "5 lbs",
+    "strengths": [
+      "Venomous",
+      "Camouflage",
+      "Specialized organs"
+    ],
+    "weaknesses": "Limited strike range"
+  },
+  "rightAnimal": {
+    "name": "Coyote",
+    "height": "2’ 0”",
+    "weight": "40 lbs",
+    "strengths": [
+      "Adaptability",
+      "High stamina",
+      "Good sense of smell"
+    ],
+    "weaknesses": "Lower bite power"
+  },
+  "justification": "The rattlesnake uses hemotoxic venom delivered through long, hinged fangs, combined with heat-sensing pit organs and cryptic coloration to strike with precision before detection. While the coyote excels in endurance and sensory perception, its slower reaction time and lack of venom resistance make it vulnerable to the snake’s rapid envenomation and ambush tactics in a surprise encounter.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "American Bison",
+    "height": "6’ 0”",
+    "weight": "2000 lbs",
+    "strengths": [
+      "Massive strength",
+      "Thick skin",
+      "Can run 35 mph"
+    ],
+    "weaknesses": "Poor eyesight"
+  },
+  "rightAnimal": {
+    "name": "Water Buffalo",
+    "height": "5’ 5”",
+    "weight": "2000 lb",
+    "strengths": [
+      "Very aggressive",
+      "Sharp horns",
+      "Powerful build"
+    ],
+    "weaknesses": "Poor hearing"
+  },
+  "justification": "The American bison has a more robust hump-supported thoracic musculature and reinforced cervical vertebrae, allowing it to generate immense forward force and absorb impact during clashes. While the water buffalo is highly aggressive with sharper, more curved horns optimized for goring, its flatter body structure and slightly lower shoulder mass give the bison an advantage in raw momentum and force in a direct head-to-head collision.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Cheetah",
+    "height": "3’ 0”",
+    "weight": "120 lbs",
+    "strengths": [
+      "Fastest land animal (70 mph)",
+      "Excellent vision",
+      "Sharp teeth"
+    ],
+    "weaknesses": "Low endurance"
+  },
+  "rightAnimal": {
+    "name": "Porcupine",
+    "height": "1’ 6”",
+    "weight": "25 lbs",
+    "strengths": [
+      "Sharp quills",
+      "Nocturnal",
+      "Strong claws"
+    ],
+    "weaknesses": "Slow"
+  },
+  "justification": "The cheetah’s lightweight frame, semi-retractable claws, and enlarged adrenal glands enable quick acceleration and precise striking, making it a lethal predator. Although the porcupine’s keratin-based quills provide strong passive defense, its slow reflexes and reliance on deterrence rather than active combat leave it highly vulnerable to the cheetah’s swift and targeted attacks.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Stone Fish",
+    "height": "0’ 11”",
+    "weight": "5 lbs",
+    "strengths": [
+      "Highly venomous",
+      "Camouflage",
+      "Colors deter predators"
+    ],
+    "weaknesses": "Extremely slow"
+  },
+  "rightAnimal": {
+    "name": "Sting Ray",
+    "height": "3’ 6”",
+    "weight": "200 lbs",
+    "strengths": [
+      "Venomous tail",
+      "Agile",
+      "Good at hiding in the sand"
+    ],
+    "weaknesses": "Poor eyesight"
+  },
+  "justification": "The stingray’s flattened body and enlarged pectoral fins provide it with hydrodynamic agility, allowing for rapid directional changes and evasion in benthic environments. Although the stonefish possesses more potent venom delivered through dorsal spines, its limited mobility and passive defense strategy make it less effective in an active confrontation against the stingray.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Komodo dragon",
+    "height": "2’ 6”",
+    "weight": "250 lbs",
+    "strengths": [
+      "Venomous",
+      "Strong bite",
+      "Powerful tail and claws"
+    ],
+    "weaknesses": "Slow"
+  },
+  "rightAnimal": {
+    "name": "Python",
+    "height": "20’ 0”",
+    "weight": "200 lbs",
+    "strengths": [
+      "Construction power",
+      "Silent",
+      "Good swimmer"
+    ],
+    "weaknesses": "Slow"
+  },
+  "justification": "The Komodo dragon sends anticoagulant-rich venom through serrated teeth, causing rapid blood loss and its muscular limbs and tail offer substantial striking and grappling power. Though the python uses powerful axial musculature to constrict and suffocate prey, its lack of venom and slower strike initiation put it at a disadvantage against the Komodo’s offense and envenomation-based attacks in direct combat.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Hammer head",
+    "height": "15’ 5”",
+    "weight": "800 lbs",
+    "strengths": [
+      "Good vision",
+      "Electro-sensing",
+      "Agile"
+    ],
+    "weaknesses": "Limited maneuvering"
+  },
+  "rightAnimal": {
+    "name": "Mako",
+    "height": "12’ 0”",
+    "weight": "250 lbs",
+    "strengths": [
+      "Incredibly fast (60 mph)",
+      "Powerful jaw",
+      "High stamina"
+    ],
+    "weaknesses": "Always moving"
+  },
+  "justification": "The hammerhead shark’s wide cephalofoil enhances binocular vision, allowing for heightened prey detection and precise strikes in benthic zones. However, the mako shark possesses a highly streamlined fusiform body and large red muscle mass for sustained speed, making it one of the most energy-efficient marine predators. The mako’s speed outmatches the hammerhead’s broader and less maneuverable design.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "California Condor",
+    "height": "3’ 5”",
+    "weight": "25 lbs",
+    "strengths": [
+      "Huge wingspan",
+      "Evading techniques",
+      "Aggressive"
+    ],
+    "weaknesses": "High vulnerability to toxins"
+  },
+  "rightAnimal": {
+    "name": "Harpy eagle",
+    "height": "3’ 6”",
+    "weight": "20 lbs",
+    "strengths": [
+      "Strong talons",
+      "Excellent vision",
+      "Strong"
+    ],
+    "weaknesses": "Slow in long distance"
+  },
+  "justification": "The harpy eagle possesses the strongest talons among raptors, acute binocular vision, and powerful leg muscles adapted for hunting arboreal prey. While the California condor excels in soaring and evasive flight due to its massive 9.5-foot wingspan, it is a scavenger with limited offensive adaptations, making it highly vulnerable in combat against the harpy eagle’s precision strikes.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Baboon",
+    "height": "3’ 0”",
+    "weight": "65 lbs",
+    "strengths": [
+      "Sharp canines",
+      "Intelligent",
+      "Agile"
+    ],
+    "weaknesses": "Vulnerable alone"
+  },
+  "rightAnimal": {
+    "name": "Mandrill",
+    "height": "3’ 6”",
+    "weight": "85 lbs",
+    "strengths": [
+      "Strong arm",
+      "Strong jaw",
+      "Good instincts"
+    ],
+    "weaknesses": "Poor swimmers"
+  },
+  "justification": "The mandrill possesses greater body mass, strong forelimb musculature, and one of the most powerful bites among monkeys measured at over 300 psi. Although baboons are more agile and demonstrate advanced social intelligence, their lighter frame and shorter canine reach put them at a disadvantage against the mandrill’s superior strength and physical resilience in an encounter.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Orangutan",
+    "height": "5’ 0”",
+    "weight": "150 lbs",
+    "strengths": [
+      "Strong arms",
+      "Highly intelligent",
+      "Aggravated easily"
+    ],
+    "weaknesses": "Slow"
+  },
+  "rightAnimal": {
+    "name": "Leopard",
+    "height": "2’ 0”",
+    "weight": "120 lbs",
+    "strengths": [
+      "Silent",
+      "Excellent climber",
+      "Fast"
+    ],
+    "weaknesses": "Small"
+  },
+  "justification": "The leopard has fast-twitch muscle fibers, retractable claws, and a suffocating throat bite, enabling it to kill quickly and efficiently with minimal struggle. While the orangutan has immense upper body strength and advanced cognitive ability, its arboreal adaptations and slower terrestrial movement leave it vulnerable to the leopard’s stealth ambush tactics and lethality in close encounters.",
+  "winner": false
+},
+{
+  "leftAnimal": {
+    "name": "Elephant Seal",
+    "height": "5’ 5”",
+    "weight": "8000 lbs",
+    "strengths": [
+      "Massive size",
+      "High strength",
+      "Loud"
+    ],
+    "weaknesses": "Slow"
+  },
+  "rightAnimal": {
+    "name": "Dolphin",
+    "height": "7’ 0”",
+    "weight": "800 lbs",
+    "strengths": [
+      "Extremely intelligent",
+      "Fast",
+      "Agile"
+    ],
+    "weaknesses": "Limited defense"
+  },
+  "justification": "The elephant seal’s large mass and powerful neck and jaw muscles allow it to deliver forceful strikes and dominate through sheer physicality in close-range encounters. While dolphins possess advanced echolocation, complex social intelligence, and high-speed agility, their lack of natural offensive weaponry and much smaller size make them vulnerable to the brute strength and bulk of an elephant seal.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Lion's mane jellyfish",
+    "height": "100’ 0”",
+    "weight": "180 lbs",
+    "strengths": [
+      "Stinging tentacles",
+      "Bioluminescence",
+      "Very large"
+    ],
+    "weaknesses": "No brain"
+  },
+  "rightAnimal": {
+    "name": "Moray eel",
+    "height": "6’ 0”",
+    "weight": "50 lbs",
+    "strengths": [
+      "Sharp teeth",
+      "Agile",
+      "Second jaw"
+    ],
+    "weaknesses": "Poor eyesight"
+  },
+  "justification": "The lion’s mane jellyfish has thousands of nematocysts along its tentacles, delivering venom that disrupts cellular membranes and can paralyze small to medium marine animals. Although the moray eel has powerful teeth and a pharyngeal jaw for gripping prey, its limited vision and need for close contact make it highly susceptible to the jellyfish’s expansive, neurotoxic defenses before it can engage effectively.",
+  "winner": true
+},
+{
+  "leftAnimal": {
+    "name": "Poison dart frog",
+    "height": "0’ 2”",
+    "weight": ".01 lb",
+    "strengths": [
+      "Toxin skin",
+      "Agile",
+      "Bright colors deter predators"
+    ],
+    "weaknesses": "Small"
+  },
+  "rightAnimal": {
+    "name": "Tarantula",
+    "height": "0’ 6”",
+    "weight": ".03 lbs",
+    "strengths": [
+      "Venomous",
+      "Good hider",
+      "Small"
+    ],
+    "weaknesses": "Fragile"
+  },
+  "justification": "The poison dart frog secretes batrachotoxin through its skin, a potent neurotoxin that disrupts sodium ion channels and causes paralysis or death upon contact or ingestion. While the tarantula relies on venom and stealth, its permeable exoskeleton and need to bite to subdue prey make it highly vulnerable to the frog’s passive yet lethal chemical defense, making the frog the likely victor despite its smaller size.",
+  "winner": true
+}
+]
